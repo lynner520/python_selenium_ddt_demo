@@ -12,7 +12,11 @@ python selenium 数据驱动框架
 
 #使用
 1.下载源码
+
 2.添加场景测试数据
+
 3.新建场景用例
+
 4.加入testsuite
+
 5.根目录下执行 python -B testsuite.py
