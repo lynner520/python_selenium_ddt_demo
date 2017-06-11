@@ -1,0 +1,5 @@
+target_url,elem_by,elem_val,search_value
+http://www.baidu.com/,NAME,wd,python
+http://www.baidu.com/,NAME,wd,selenium
+http://www.baidu.com/,NAME,wd,webdriver
+http://www.baidu.com/,NAME,wd,automation
