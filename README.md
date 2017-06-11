@@ -3,6 +3,7 @@ python selenium 数据驱动框架
 
 
 #先行条件
+
 1.安装python,官网根据需要，选择安装
 
 2.安装selenium:pip install selenium
@@ -11,6 +12,7 @@ python selenium 数据驱动框架
 
 
 #使用
+
 1.下载源码
 
 2.添加场景测试数据
